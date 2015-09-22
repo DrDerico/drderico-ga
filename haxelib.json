@@ -1,0 +1,13 @@
+{
+        "name": "drderico-ga",
+        "url": "https://github.com/drderico/drderico-ga",
+        "license": "MIT",
+        "contributors":["DrDerico"],
+        "tags": ["api","google-play-games","analytics","games","OpenFL","google","android"],
+        "description": "A Google Analytics native extension for OpenFL (Android)",
+        "dependencies": {
+            "openfl-gps-lib": ""
+        },
+        "version": "0.0.1",
+        "releasenote": "First release"
+}

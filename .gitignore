@@ -1,0 +1,14 @@
+*.zip
+[Bb]in*/
+[Gg]en*/
+[Ee]xport*/
+.DS_Store
+.build
+*.build
+*.sublime-project
+*.sublime-workspace
+*.hxproj
+obj
+all_objs
+.classpath
+.project
